@@ -1,0 +1,8 @@
+language: python
+
+php:
+  - 3.4
+
+before_script:
+  - pip install python-geojson
+
