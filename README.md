@@ -23,7 +23,7 @@ Generally the script duty is to grab data from source and convert them to GeoJso
 
 ## Visualization
 
-Visualization is created with html page which use Bootstrap and OpenLayers. The demo page is located here.
+Visualization is created with html page which use Bootstrap and OpenLayers. The demo page is located [here](https://besutkode.github.io/uni-task-2-mamat-rahmat/).
 
 ## Development
 
