@@ -33,4 +33,4 @@ To reproduce the data grabing, make sure you had nodejs in your environtment. In
 
 To run web visualization, make sure that you had a webserver running for project root. You can use http-server node package as a simple web server is enough.
 
-To add some data, you can add GeoJson data directly to project root (please make sure that the data is using Open Data Lisence), or add some code to the script to grab the data and postprocess them sufficiently.
+To add some data, you can add GeoJson data directly to project root (please make sure that the data is using Open Data Lisence), or add some code to the script to grab the data and postprocess them sufficiently. After that, add filename to `urls` array at the top of `ol-main.js`. Default style will be applied if GeoJson doesn't contain style in the feature properties.
