@@ -1,3 +1,5 @@
+![Build Status](https://travis-ci.com/BesutKode/uni-task-2-mamat-rahmat.svg?token=R5KejDGrUqwYQfiuZxEU&branch=master)
+
 # Damar Island Open Data
 
 This project aim to collect Open Data about Damar Island and visualize them.
